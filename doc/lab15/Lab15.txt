@@ -1,0 +1,15 @@
+Roman
+Volkov
+3000
+7456321
+0
+Anna
+Romanova
+12000
+7654321
+1
+Kiril
+Zaycev
+15000
+7123456
+1
